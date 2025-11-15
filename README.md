@@ -44,4 +44,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-For further inquiries or collaboration opportunities, please contact [Your Email Address].
+For further inquiries or collaboration opportunities, please contact [shirishnama007@gmail.com].
